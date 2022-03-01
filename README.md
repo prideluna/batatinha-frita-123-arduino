@@ -8,3 +8,8 @@ identify some movement, and if it happens, the game is over!
 
 The aim was apply knowledgs of C++ programming while I made something funny.
 This project was done with arduino.
+
+
+
+------------
+
